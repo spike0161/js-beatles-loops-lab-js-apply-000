@@ -1,7 +1,9 @@
 // add solution here
-Function theBeatlesPlay() {
-  []
-  []
+
+
+Function theBeatlesPlay(musicians, instruments) {
+  
+  var array = [];
+  
 }
 
-var beatles = [];
